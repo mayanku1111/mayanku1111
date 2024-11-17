@@ -4,6 +4,6 @@
 
 ### Skills and Experience
 
-### Tensorflow, Pytorch, llms,computer vision,gans,diffusion models,vision language models(VLMs) and moreee....
+### Pytorch, llms, computer vision, Gans, Diffusion models, Vision language models(VLMs), Nerfs and 3d gaussian splatting, MLops, RLHF
 
 
